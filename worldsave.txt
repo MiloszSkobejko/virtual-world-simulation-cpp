@@ -1,0 +1,4924 @@
+Zapis swiata
+492
+92
+
+[organizm 0]
+Lis
+L
+0
+3
+7
+30
+15
+92
+
+[organizm 1]
+Lis
+L
+0
+3
+7
+10
+11
+92
+
+[organizm 2]
+Wilk
+W
+0
+9
+5
+4
+12
+92
+
+[organizm 3]
+Wilk
+W
+0
+9
+5
+3
+2
+92
+
+[organizm 4]
+Owca
+O
+0
+4
+4
+9
+8
+92
+
+[organizm 5]
+Owca
+O
+0
+7
+4
+22
+11
+92
+
+[organizm 6]
+Zolw
+Z
+0
+2
+1
+25
+16
+92
+
+[organizm 7]
+Zolw
+Z
+0
+2
+1
+29
+9
+92
+
+[organizm 8]
+Leniwiec
+E
+0
+2
+1
+1
+16
+92
+
+[organizm 9]
+Trawa
+*
+1
+0
+0
+32
+4
+92
+
+[organizm 10]
+WilczeJagody
+^
+1
+0
+0
+26
+2
+92
+
+[organizm 11]
+Trawa
+*
+1
+0
+0
+33
+3
+92
+
+[organizm 12]
+Trawa
+*
+1
+0
+0
+34
+2
+87
+
+[organizm 13]
+Trawa
+*
+1
+0
+0
+34
+3
+85
+
+[organizm 14]
+Trawa
+*
+1
+0
+0
+34
+1
+85
+
+[organizm 15]
+Trawa
+*
+1
+0
+0
+31
+3
+83
+
+[organizm 16]
+WilczeJagody
+^
+1
+0
+0
+25
+3
+83
+
+[organizm 17]
+Trawa
+*
+1
+0
+0
+31
+4
+82
+
+[organizm 18]
+Trawa
+*
+1
+0
+0
+33
+2
+82
+
+[organizm 19]
+Trawa
+*
+1
+0
+0
+35
+3
+82
+
+[organizm 20]
+Trawa
+*
+1
+0
+0
+33
+4
+81
+
+[organizm 21]
+Trawa
+*
+1
+0
+0
+30
+4
+81
+
+[organizm 22]
+Trawa
+*
+1
+0
+0
+36
+3
+81
+
+[organizm 23]
+Trawa
+*
+1
+0
+0
+32
+5
+80
+
+[organizm 24]
+Trawa
+*
+1
+0
+0
+32
+3
+80
+
+[organizm 25]
+Trawa
+*
+1
+0
+0
+30
+3
+80
+
+[organizm 26]
+Trawa
+*
+1
+0
+0
+33
+1
+78
+
+[organizm 27]
+Trawa
+*
+1
+0
+0
+29
+4
+78
+
+[organizm 28]
+Trawa
+*
+1
+0
+0
+35
+2
+77
+
+[organizm 29]
+Trawa
+*
+1
+0
+0
+36
+4
+77
+
+[organizm 30]
+Trawa
+*
+1
+0
+0
+35
+1
+76
+
+[organizm 31]
+Trawa
+*
+1
+0
+0
+32
+2
+75
+
+[organizm 32]
+Trawa
+*
+1
+0
+0
+30
+2
+75
+
+[organizm 33]
+WilczeJagody
+^
+1
+0
+0
+27
+3
+74
+
+[organizm 34]
+Trawa
+*
+1
+0
+0
+31
+5
+74
+
+[organizm 35]
+Trawa
+*
+1
+0
+0
+32
+1
+74
+
+[organizm 36]
+Trawa
+*
+1
+0
+0
+31
+2
+73
+
+[organizm 37]
+Trawa
+*
+1
+0
+0
+30
+5
+73
+
+[organizm 38]
+Trawa
+*
+1
+0
+0
+31
+1
+73
+
+[organizm 39]
+Trawa
+*
+1
+0
+0
+32
+6
+73
+
+[organizm 40]
+Trawa
+*
+1
+0
+0
+33
+5
+72
+
+[organizm 41]
+Trawa
+*
+1
+0
+0
+33
+7
+72
+
+[organizm 42]
+Trawa
+*
+1
+0
+0
+35
+4
+71
+
+[organizm 43]
+Trawa
+*
+1
+0
+0
+31
+6
+71
+
+[organizm 44]
+Trawa
+*
+1
+0
+0
+34
+5
+70
+
+[organizm 45]
+Trawa
+*
+1
+0
+0
+32
+7
+70
+
+[organizm 46]
+Trawa
+*
+1
+0
+0
+34
+4
+70
+
+[organizm 47]
+Trawa
+*
+1
+0
+0
+29
+5
+68
+
+[organizm 48]
+Trawa
+*
+1
+0
+0
+36
+2
+68
+
+[organizm 49]
+Trawa
+*
+1
+0
+0
+31
+7
+67
+
+[organizm 50]
+Trawa
+*
+1
+0
+0
+36
+5
+67
+
+[organizm 51]
+Trawa
+*
+1
+0
+0
+37
+4
+66
+
+[organizm 52]
+Trawa
+*
+1
+0
+0
+28
+3
+66
+
+[organizm 53]
+Trawa
+*
+1
+0
+0
+36
+1
+66
+
+[organizm 54]
+Trawa
+*
+1
+0
+0
+36
+6
+66
+
+[organizm 55]
+Trawa
+*
+1
+0
+0
+28
+4
+66
+
+[organizm 56]
+Trawa
+*
+1
+0
+0
+35
+5
+66
+
+[organizm 57]
+Trawa
+*
+1
+0
+0
+28
+5
+65
+
+[organizm 58]
+Trawa
+*
+1
+0
+0
+37
+5
+65
+
+[organizm 59]
+Trawa
+*
+1
+0
+0
+29
+1
+64
+
+[organizm 60]
+Trawa
+*
+1
+0
+0
+27
+6
+64
+
+[organizm 61]
+Trawa
+*
+1
+0
+0
+34
+6
+63
+
+[organizm 62]
+Trawa
+*
+1
+0
+0
+27
+5
+63
+
+[organizm 63]
+Trawa
+*
+1
+0
+0
+37
+1
+63
+
+[organizm 64]
+Trawa
+*
+1
+0
+0
+34
+8
+63
+
+[organizm 65]
+Trawa
+*
+1
+0
+0
+33
+6
+63
+
+[organizm 66]
+Trawa
+*
+1
+0
+0
+29
+6
+63
+
+[organizm 67]
+Trawa
+*
+1
+0
+0
+30
+1
+62
+
+[organizm 68]
+Trawa
+*
+1
+0
+0
+37
+3
+62
+
+[organizm 69]
+Trawa
+*
+1
+0
+0
+29
+2
+62
+
+[organizm 70]
+Trawa
+*
+1
+0
+0
+38
+4
+62
+
+[organizm 71]
+Trawa
+*
+1
+0
+0
+26
+7
+62
+
+[organizm 72]
+Trawa
+*
+1
+0
+0
+35
+7
+62
+
+[organizm 73]
+Trawa
+*
+1
+0
+0
+27
+7
+62
+
+[organizm 74]
+Trawa
+*
+1
+0
+0
+35
+6
+62
+
+[organizm 75]
+Trawa
+*
+1
+0
+0
+34
+7
+62
+
+[organizm 76]
+Trawa
+*
+1
+0
+0
+38
+3
+61
+
+[organizm 77]
+Trawa
+*
+1
+0
+0
+28
+1
+61
+
+[organizm 78]
+Trawa
+*
+1
+0
+0
+28
+7
+60
+
+[organizm 79]
+Trawa
+*
+1
+0
+0
+36
+7
+60
+
+[organizm 80]
+Trawa
+*
+1
+0
+0
+33
+9
+60
+
+[organizm 81]
+Trawa
+*
+1
+0
+0
+26
+6
+60
+
+[organizm 82]
+Trawa
+*
+1
+0
+0
+29
+7
+60
+
+[organizm 83]
+Trawa
+*
+1
+0
+0
+37
+6
+60
+
+[organizm 84]
+Trawa
+*
+1
+0
+0
+27
+4
+60
+
+[organizm 85]
+Trawa
+*
+1
+0
+0
+38
+5
+59
+
+[organizm 86]
+Trawa
+*
+1
+0
+0
+37
+2
+59
+
+[organizm 87]
+Trawa
+*
+1
+0
+0
+29
+3
+59
+
+[organizm 88]
+Trawa
+*
+1
+0
+0
+34
+10
+59
+
+[organizm 89]
+Trawa
+*
+1
+0
+0
+38
+7
+59
+
+[organizm 90]
+Trawa
+*
+1
+0
+0
+30
+7
+59
+
+[organizm 91]
+WilczeJagody
+^
+1
+0
+0
+26
+3
+58
+
+[organizm 92]
+Trawa
+*
+1
+0
+0
+30
+6
+58
+
+[organizm 93]
+Trawa
+*
+1
+0
+0
+38
+1
+58
+
+[organizm 94]
+Trawa
+*
+1
+0
+0
+32
+10
+58
+
+[organizm 95]
+Trawa
+*
+1
+0
+0
+37
+7
+58
+
+[organizm 96]
+Trawa
+*
+1
+0
+0
+28
+8
+58
+
+[organizm 97]
+Trawa
+*
+1
+0
+0
+25
+4
+58
+
+[organizm 98]
+Trawa
+*
+1
+0
+0
+28
+6
+57
+
+[organizm 99]
+Trawa
+*
+1
+0
+0
+38
+6
+57
+
+[organizm 100]
+Trawa
+*
+1
+0
+0
+38
+2
+57
+
+[organizm 101]
+Trawa
+*
+1
+0
+0
+25
+5
+57
+
+[organizm 102]
+Trawa
+*
+1
+0
+0
+31
+9
+57
+
+[organizm 103]
+Trawa
+*
+1
+0
+0
+35
+8
+56
+
+[organizm 104]
+Trawa
+*
+1
+0
+0
+27
+8
+56
+
+[organizm 105]
+WilczeJagody
+^
+1
+0
+0
+24
+2
+55
+
+[organizm 106]
+Trawa
+*
+1
+0
+0
+27
+1
+55
+
+[organizm 107]
+Trawa
+*
+1
+0
+0
+35
+11
+55
+
+[organizm 108]
+Trawa
+*
+1
+0
+0
+28
+2
+55
+
+[organizm 109]
+Trawa
+*
+1
+0
+0
+26
+8
+54
+
+[organizm 110]
+Trawa
+*
+1
+0
+0
+27
+2
+54
+
+[organizm 111]
+Trawa
+*
+1
+0
+0
+35
+9
+54
+
+[organizm 112]
+Trawa
+*
+1
+0
+0
+26
+1
+54
+
+[organizm 113]
+Trawa
+*
+1
+0
+0
+32
+9
+53
+
+[organizm 114]
+Trawa
+*
+1
+0
+0
+34
+12
+53
+
+[organizm 115]
+Trawa
+*
+1
+0
+0
+36
+8
+52
+
+[organizm 116]
+Trawa
+*
+1
+0
+0
+26
+5
+52
+
+[organizm 117]
+Trawa
+*
+1
+0
+0
+25
+7
+52
+
+[organizm 118]
+Trawa
+*
+1
+0
+0
+26
+4
+52
+
+[organizm 119]
+Trawa
+*
+1
+0
+0
+25
+6
+51
+
+[organizm 120]
+Trawa
+*
+1
+0
+0
+34
+13
+51
+
+[organizm 121]
+Trawa
+*
+1
+0
+0
+28
+10
+51
+
+[organizm 122]
+Trawa
+*
+1
+0
+0
+28
+9
+51
+
+[organizm 123]
+Trawa
+*
+1
+0
+0
+25
+8
+51
+
+[organizm 124]
+Trawa
+*
+1
+0
+0
+24
+6
+50
+
+[organizm 125]
+Trawa
+*
+1
+0
+0
+25
+2
+50
+
+[organizm 126]
+Trawa
+*
+1
+0
+0
+34
+11
+50
+
+[organizm 127]
+Trawa
+*
+1
+0
+0
+24
+8
+50
+
+[organizm 128]
+Trawa
+*
+1
+0
+0
+30
+11
+50
+
+[organizm 129]
+Trawa
+*
+1
+0
+0
+29
+12
+50
+
+[organizm 130]
+Trawa
+*
+1
+0
+0
+33
+12
+50
+
+[organizm 131]
+Trawa
+*
+1
+0
+0
+36
+9
+49
+
+[organizm 132]
+Trawa
+*
+1
+0
+0
+36
+10
+49
+
+[organizm 133]
+Trawa
+*
+1
+0
+0
+35
+10
+49
+
+[organizm 134]
+Trawa
+*
+1
+0
+0
+31
+10
+48
+
+[organizm 135]
+Trawa
+*
+1
+0
+0
+24
+5
+48
+
+[organizm 136]
+Trawa
+*
+1
+0
+0
+24
+7
+48
+
+[organizm 137]
+Trawa
+*
+1
+0
+0
+35
+14
+48
+
+[organizm 138]
+Trawa
+*
+1
+0
+0
+23
+7
+48
+
+[organizm 139]
+Trawa
+*
+1
+0
+0
+35
+13
+48
+
+[organizm 140]
+Trawa
+*
+1
+0
+0
+37
+8
+47
+
+[organizm 141]
+Trawa
+*
+1
+0
+0
+24
+4
+47
+
+[organizm 142]
+Trawa
+*
+1
+0
+0
+31
+12
+47
+
+[organizm 143]
+Trawa
+*
+1
+0
+0
+30
+12
+47
+
+[organizm 144]
+Trawa
+*
+1
+0
+0
+33
+13
+47
+
+[organizm 145]
+Trawa
+*
+1
+0
+0
+27
+9
+47
+
+[organizm 146]
+Trawa
+*
+1
+0
+0
+23
+8
+47
+
+[organizm 147]
+Trawa
+*
+1
+0
+0
+36
+13
+47
+
+[organizm 148]
+Trawa
+*
+1
+0
+0
+29
+11
+46
+
+[organizm 149]
+Trawa
+*
+1
+0
+0
+25
+1
+46
+
+[organizm 150]
+Trawa
+*
+1
+0
+0
+32
+13
+46
+
+[organizm 151]
+Trawa
+*
+1
+0
+0
+36
+11
+46
+
+[organizm 152]
+Trawa
+*
+1
+0
+0
+28
+11
+46
+
+[organizm 153]
+Trawa
+*
+1
+0
+0
+27
+11
+45
+
+[organizm 154]
+Trawa
+*
+1
+0
+0
+34
+14
+45
+
+[organizm 155]
+Trawa
+*
+1
+0
+0
+23
+5
+45
+
+[organizm 156]
+Trawa
+*
+1
+0
+0
+31
+13
+45
+
+[organizm 157]
+Trawa
+*
+1
+0
+0
+30
+10
+44
+
+[organizm 158]
+Trawa
+*
+1
+0
+0
+35
+12
+44
+
+[organizm 159]
+Trawa
+*
+1
+0
+0
+38
+8
+43
+
+[organizm 160]
+Trawa
+*
+1
+0
+0
+26
+10
+43
+
+[organizm 161]
+Trawa
+*
+1
+0
+0
+26
+9
+43
+
+[organizm 162]
+Trawa
+*
+1
+0
+0
+24
+3
+43
+
+[organizm 163]
+Trawa
+*
+1
+0
+0
+28
+13
+43
+
+[organizm 164]
+Trawa
+*
+1
+0
+0
+24
+1
+43
+
+[organizm 165]
+Trawa
+*
+1
+0
+0
+27
+12
+43
+
+[organizm 166]
+Trawa
+*
+1
+0
+0
+28
+12
+42
+
+[organizm 167]
+Trawa
+*
+1
+0
+0
+38
+9
+42
+
+[organizm 168]
+Trawa
+*
+1
+0
+0
+23
+1
+42
+
+[organizm 169]
+Trawa
+*
+1
+0
+0
+27
+13
+42
+
+[organizm 170]
+Trawa
+*
+1
+0
+0
+32
+14
+42
+
+[organizm 171]
+Trawa
+*
+1
+0
+0
+22
+1
+42
+
+[organizm 172]
+Trawa
+*
+1
+0
+0
+28
+14
+42
+
+[organizm 173]
+Trawa
+*
+1
+0
+0
+25
+9
+41
+
+[organizm 174]
+Trawa
+*
+1
+0
+0
+37
+9
+41
+
+[organizm 175]
+Trawa
+*
+1
+0
+0
+23
+3
+41
+
+[organizm 176]
+Trawa
+*
+1
+0
+0
+27
+14
+41
+
+[organizm 177]
+Trawa
+*
+1
+0
+0
+30
+13
+40
+
+[organizm 178]
+Trawa
+*
+1
+0
+0
+27
+10
+40
+
+[organizm 179]
+Trawa
+*
+1
+0
+0
+23
+6
+40
+
+[organizm 180]
+Trawa
+*
+1
+0
+0
+22
+7
+40
+
+[organizm 181]
+Trawa
+*
+1
+0
+0
+25
+11
+39
+
+[organizm 182]
+Trawa
+*
+1
+0
+0
+23
+4
+39
+
+[organizm 183]
+Trawa
+*
+1
+0
+0
+29
+13
+39
+
+[organizm 184]
+Trawa
+*
+1
+0
+0
+38
+12
+39
+
+[organizm 185]
+Trawa
+*
+1
+0
+0
+21
+1
+39
+
+[organizm 186]
+Trawa
+*
+1
+0
+0
+24
+9
+39
+
+[organizm 187]
+Trawa
+*
+1
+0
+0
+37
+10
+38
+
+[organizm 188]
+Trawa
+*
+1
+0
+0
+22
+4
+38
+
+[organizm 189]
+Trawa
+*
+1
+0
+0
+22
+3
+38
+
+[organizm 190]
+Trawa
+*
+1
+0
+0
+22
+8
+38
+
+[organizm 191]
+Trawa
+*
+1
+0
+0
+25
+10
+37
+
+[organizm 192]
+Trawa
+*
+1
+0
+0
+22
+5
+37
+
+[organizm 193]
+Trawa
+*
+1
+0
+0
+22
+2
+37
+
+[organizm 194]
+Trawa
+*
+1
+0
+0
+23
+2
+37
+
+[organizm 195]
+Trawa
+*
+1
+0
+0
+22
+6
+37
+
+[organizm 196]
+Trawa
+*
+1
+0
+0
+21
+7
+37
+
+[organizm 197]
+Trawa
+*
+1
+0
+0
+33
+14
+36
+
+[organizm 198]
+Trawa
+*
+1
+0
+0
+26
+12
+36
+
+[organizm 199]
+Trawa
+*
+1
+0
+0
+27
+15
+36
+
+[organizm 200]
+Trawa
+*
+1
+0
+0
+26
+11
+36
+
+[organizm 201]
+Trawa
+*
+1
+0
+0
+29
+14
+36
+
+[organizm 202]
+Trawa
+*
+1
+0
+0
+20
+7
+36
+
+[organizm 203]
+Trawa
+*
+1
+0
+0
+21
+5
+36
+
+[organizm 204]
+Trawa
+*
+1
+0
+0
+31
+11
+35
+
+[organizm 205]
+Trawa
+*
+1
+0
+0
+32
+11
+35
+
+[organizm 206]
+Trawa
+*
+1
+0
+0
+32
+12
+35
+
+[organizm 207]
+Trawa
+*
+1
+0
+0
+34
+15
+35
+
+[organizm 208]
+Trawa
+*
+1
+0
+0
+25
+12
+35
+
+[organizm 209]
+Trawa
+*
+1
+0
+0
+21
+2
+35
+
+[organizm 210]
+Trawa
+*
+1
+0
+0
+24
+10
+35
+
+[organizm 211]
+Trawa
+*
+1
+0
+0
+21
+8
+35
+
+[organizm 212]
+Trawa
+*
+1
+0
+0
+28
+16
+35
+
+[organizm 213]
+Trawa
+*
+1
+0
+0
+21
+6
+35
+
+[organizm 214]
+Trawa
+*
+1
+0
+0
+24
+11
+34
+
+[organizm 215]
+Trawa
+*
+1
+0
+0
+26
+13
+34
+
+[organizm 216]
+Trawa
+*
+1
+0
+0
+32
+16
+34
+
+[organizm 217]
+Trawa
+*
+1
+0
+0
+21
+3
+34
+
+[organizm 218]
+Trawa
+*
+1
+0
+0
+20
+9
+34
+
+[organizm 219]
+Trawa
+*
+1
+0
+0
+20
+1
+34
+
+[organizm 220]
+Trawa
+*
+1
+0
+0
+20
+2
+34
+
+[organizm 221]
+Trawa
+*
+1
+0
+0
+36
+12
+33
+
+[organizm 222]
+Trawa
+*
+1
+0
+0
+38
+10
+33
+
+[organizm 223]
+Trawa
+*
+1
+0
+0
+26
+15
+33
+
+[organizm 224]
+Trawa
+*
+1
+0
+0
+21
+4
+33
+
+[organizm 225]
+Trawa
+*
+1
+0
+0
+20
+6
+33
+
+[organizm 226]
+Trawa
+*
+1
+0
+0
+26
+14
+33
+
+[organizm 227]
+Trawa
+*
+1
+0
+0
+20
+8
+33
+
+[organizm 228]
+Trawa
+*
+1
+0
+0
+20
+5
+33
+
+[organizm 229]
+Trawa
+*
+1
+0
+0
+36
+14
+32
+
+[organizm 230]
+Trawa
+*
+1
+0
+0
+35
+15
+32
+
+[organizm 231]
+Trawa
+*
+1
+0
+0
+36
+15
+32
+
+[organizm 232]
+Trawa
+*
+1
+0
+0
+31
+16
+32
+
+[organizm 233]
+Trawa
+*
+1
+0
+0
+38
+13
+32
+
+[organizm 234]
+Trawa
+*
+1
+0
+0
+20
+11
+32
+
+[organizm 235]
+Trawa
+*
+1
+0
+0
+35
+16
+32
+
+[organizm 236]
+Trawa
+*
+1
+0
+0
+19
+2
+32
+
+[organizm 237]
+Trawa
+*
+1
+0
+0
+29
+16
+32
+
+[organizm 238]
+Trawa
+*
+1
+0
+0
+20
+4
+32
+
+[organizm 239]
+Trawa
+*
+1
+0
+0
+19
+3
+32
+
+[organizm 240]
+Trawa
+*
+1
+0
+0
+19
+8
+32
+
+[organizm 241]
+Trawa
+*
+1
+0
+0
+37
+11
+31
+
+[organizm 242]
+Trawa
+*
+1
+0
+0
+33
+11
+31
+
+[organizm 243]
+Trawa
+*
+1
+0
+0
+28
+17
+31
+
+[organizm 244]
+Trawa
+*
+1
+0
+0
+30
+17
+31
+
+[organizm 245]
+Trawa
+*
+1
+0
+0
+19
+1
+31
+
+[organizm 246]
+Trawa
+*
+1
+0
+0
+32
+17
+31
+
+[organizm 247]
+Trawa
+*
+1
+0
+0
+20
+3
+31
+
+[organizm 248]
+Trawa
+*
+1
+0
+0
+37
+12
+30
+
+[organizm 249]
+Trawa
+*
+1
+0
+0
+33
+10
+30
+
+[organizm 250]
+Trawa
+*
+1
+0
+0
+19
+6
+30
+
+[organizm 251]
+Trawa
+*
+1
+0
+0
+24
+12
+30
+
+[organizm 252]
+Trawa
+*
+1
+0
+0
+19
+9
+30
+
+[organizm 253]
+Trawa
+*
+1
+0
+0
+37
+13
+30
+
+[organizm 254]
+Trawa
+*
+1
+0
+0
+29
+18
+30
+
+[organizm 255]
+Trawa
+*
+1
+0
+0
+19
+5
+30
+
+[organizm 256]
+Trawa
+*
+1
+0
+0
+18
+4
+30
+
+[organizm 257]
+Trawa
+*
+1
+0
+0
+37
+15
+30
+
+[organizm 258]
+Trawa
+*
+1
+0
+0
+29
+17
+30
+
+[organizm 259]
+Trawa
+*
+1
+0
+0
+28
+18
+30
+
+[organizm 260]
+Trawa
+*
+1
+0
+0
+31
+17
+30
+
+[organizm 261]
+Trawa
+*
+1
+0
+0
+34
+9
+29
+
+[organizm 262]
+Trawa
+*
+1
+0
+0
+18
+10
+29
+
+[organizm 263]
+Trawa
+*
+1
+0
+0
+18
+7
+29
+
+[organizm 264]
+Trawa
+*
+1
+0
+0
+19
+7
+29
+
+[organizm 265]
+Trawa
+*
+1
+0
+0
+18
+8
+29
+
+[organizm 266]
+Trawa
+*
+1
+0
+0
+18
+6
+29
+
+[organizm 267]
+Trawa
+*
+1
+0
+0
+27
+18
+29
+
+[organizm 268]
+Trawa
+*
+1
+0
+0
+25
+13
+28
+
+[organizm 269]
+Trawa
+*
+1
+0
+0
+19
+10
+28
+
+[organizm 270]
+Trawa
+*
+1
+0
+0
+35
+17
+28
+
+[organizm 271]
+Trawa
+*
+1
+0
+0
+36
+16
+28
+
+[organizm 272]
+Trawa
+*
+1
+0
+0
+18
+1
+28
+
+[organizm 273]
+Trawa
+*
+1
+0
+0
+17
+6
+28
+
+[organizm 274]
+Trawa
+*
+1
+0
+0
+33
+8
+27
+
+[organizm 275]
+Trawa
+*
+1
+0
+0
+38
+11
+27
+
+[organizm 276]
+Trawa
+*
+1
+0
+0
+24
+13
+27
+
+[organizm 277]
+Trawa
+*
+1
+0
+0
+27
+17
+27
+
+[organizm 278]
+Trawa
+*
+1
+0
+0
+30
+18
+27
+
+[organizm 279]
+Trawa
+*
+1
+0
+0
+18
+2
+27
+
+[organizm 280]
+Trawa
+*
+1
+0
+0
+31
+18
+27
+
+[organizm 281]
+Trawa
+*
+1
+0
+0
+19
+4
+27
+
+[organizm 282]
+Trawa
+*
+1
+0
+0
+34
+18
+27
+
+[organizm 283]
+Trawa
+*
+1
+0
+0
+17
+3
+27
+
+[organizm 284]
+Trawa
+*
+1
+0
+0
+38
+14
+27
+
+[organizm 285]
+Trawa
+*
+1
+0
+0
+17
+7
+27
+
+[organizm 286]
+Trawa
+*
+1
+0
+0
+37
+18
+26
+
+[organizm 287]
+Trawa
+*
+1
+0
+0
+25
+17
+26
+
+[organizm 288]
+Trawa
+*
+1
+0
+0
+37
+14
+26
+
+[organizm 289]
+Trawa
+*
+1
+0
+0
+17
+2
+26
+
+[organizm 290]
+Trawa
+*
+1
+0
+0
+32
+18
+26
+
+[organizm 291]
+Trawa
+*
+1
+0
+0
+17
+9
+26
+
+[organizm 292]
+Trawa
+*
+1
+0
+0
+18
+9
+26
+
+[organizm 293]
+Trawa
+*
+1
+0
+0
+18
+11
+26
+
+[organizm 294]
+Trawa
+*
+1
+0
+0
+38
+15
+26
+
+[organizm 295]
+Trawa
+*
+1
+0
+0
+32
+8
+25
+
+[organizm 296]
+Trawa
+*
+1
+0
+0
+37
+17
+25
+
+[organizm 297]
+Trawa
+*
+1
+0
+0
+37
+16
+25
+
+[organizm 298]
+Trawa
+*
+1
+0
+0
+21
+12
+25
+
+[organizm 299]
+Trawa
+*
+1
+0
+0
+16
+4
+25
+
+[organizm 300]
+Trawa
+*
+1
+0
+0
+36
+18
+25
+
+[organizm 301]
+Trawa
+*
+1
+0
+0
+26
+18
+25
+
+[organizm 302]
+Trawa
+*
+1
+0
+0
+17
+8
+25
+
+[organizm 303]
+Trawa
+*
+1
+0
+0
+17
+11
+25
+
+[organizm 304]
+Trawa
+*
+1
+0
+0
+25
+18
+24
+
+[organizm 305]
+Trawa
+*
+1
+0
+0
+17
+4
+24
+
+[organizm 306]
+Trawa
+*
+1
+0
+0
+20
+12
+24
+
+[organizm 307]
+Trawa
+*
+1
+0
+0
+17
+10
+24
+
+[organizm 308]
+Trawa
+*
+1
+0
+0
+38
+18
+24
+
+[organizm 309]
+Trawa
+*
+1
+0
+0
+18
+5
+23
+
+[organizm 310]
+Trawa
+*
+1
+0
+0
+23
+12
+23
+
+[organizm 311]
+Trawa
+*
+1
+0
+0
+24
+18
+23
+
+[organizm 312]
+Trawa
+*
+1
+0
+0
+17
+5
+23
+
+[organizm 313]
+Trawa
+*
+1
+0
+0
+16
+10
+23
+
+[organizm 314]
+Trawa
+*
+1
+0
+0
+16
+7
+23
+
+[organizm 315]
+Trawa
+*
+1
+0
+0
+18
+3
+23
+
+[organizm 316]
+Trawa
+*
+1
+0
+0
+22
+13
+23
+
+[organizm 317]
+Trawa
+*
+1
+0
+0
+35
+18
+22
+
+[organizm 318]
+Trawa
+*
+1
+0
+0
+17
+1
+22
+
+[organizm 319]
+Trawa
+*
+1
+0
+0
+16
+8
+22
+
+[organizm 320]
+Trawa
+*
+1
+0
+0
+24
+17
+22
+
+[organizm 321]
+Trawa
+*
+1
+0
+0
+19
+14
+22
+
+[organizm 322]
+Trawa
+*
+1
+0
+0
+16
+11
+22
+
+[organizm 323]
+Trawa
+*
+1
+0
+0
+33
+18
+22
+
+[organizm 324]
+Trawa
+*
+1
+0
+0
+24
+14
+22
+
+[organizm 325]
+Trawa
+*
+1
+0
+0
+31
+8
+21
+
+[organizm 326]
+Trawa
+*
+1
+0
+0
+25
+14
+21
+
+[organizm 327]
+Trawa
+*
+1
+0
+0
+34
+17
+21
+
+[organizm 328]
+Trawa
+*
+1
+0
+0
+36
+17
+21
+
+[organizm 329]
+Trawa
+*
+1
+0
+0
+16
+9
+21
+
+[organizm 330]
+Trawa
+*
+1
+0
+0
+33
+17
+20
+
+[organizm 331]
+Trawa
+*
+1
+0
+0
+16
+2
+20
+
+[organizm 332]
+Trawa
+*
+1
+0
+0
+19
+13
+20
+
+[organizm 333]
+Trawa
+*
+1
+0
+0
+23
+14
+20
+
+[organizm 334]
+Trawa
+*
+1
+0
+0
+38
+17
+19
+
+[organizm 335]
+Trawa
+*
+1
+0
+0
+16
+5
+19
+
+[organizm 336]
+Trawa
+*
+1
+0
+0
+15
+10
+19
+
+[organizm 337]
+Trawa
+*
+1
+0
+0
+15
+1
+19
+
+[organizm 338]
+Trawa
+*
+1
+0
+0
+25
+15
+18
+
+[organizm 339]
+Trawa
+*
+1
+0
+0
+19
+12
+18
+
+[organizm 340]
+Trawa
+*
+1
+0
+0
+15
+5
+18
+
+[organizm 341]
+Trawa
+*
+1
+0
+0
+16
+3
+18
+
+[organizm 342]
+Trawa
+*
+1
+0
+0
+19
+15
+18
+
+[organizm 343]
+Trawa
+*
+1
+0
+0
+15
+4
+18
+
+[organizm 344]
+Trawa
+*
+1
+0
+0
+15
+9
+17
+
+[organizm 345]
+Trawa
+*
+1
+0
+0
+18
+12
+17
+
+[organizm 346]
+Trawa
+*
+1
+0
+0
+38
+16
+17
+
+[organizm 347]
+Trawa
+*
+1
+0
+0
+23
+17
+17
+
+[organizm 348]
+Trawa
+*
+1
+0
+0
+16
+1
+17
+
+[organizm 349]
+Trawa
+*
+1
+0
+0
+30
+8
+17
+
+[organizm 350]
+Trawa
+*
+1
+0
+0
+20
+14
+17
+
+[organizm 351]
+Trawa
+*
+1
+0
+0
+15
+3
+17
+
+[organizm 352]
+Trawa
+*
+1
+0
+0
+18
+16
+17
+
+[organizm 353]
+Trawa
+*
+1
+0
+0
+21
+13
+16
+
+[organizm 354]
+Trawa
+*
+1
+0
+0
+22
+12
+16
+
+[organizm 355]
+Trawa
+*
+1
+0
+0
+23
+15
+16
+
+[organizm 356]
+Trawa
+*
+1
+0
+0
+14
+2
+16
+
+[organizm 357]
+Trawa
+*
+1
+0
+0
+22
+16
+16
+
+[organizm 358]
+Trawa
+*
+1
+0
+0
+18
+13
+16
+
+[organizm 359]
+Trawa
+*
+1
+0
+0
+26
+16
+15
+
+[organizm 360]
+Trawa
+*
+1
+0
+0
+14
+11
+15
+
+[organizm 361]
+Trawa
+*
+1
+0
+0
+23
+13
+15
+
+[organizm 362]
+Trawa
+*
+1
+0
+0
+22
+17
+15
+
+[organizm 363]
+Trawa
+*
+1
+0
+0
+15
+6
+15
+
+[organizm 364]
+Trawa
+*
+1
+0
+0
+20
+13
+15
+
+[organizm 365]
+Trawa
+*
+1
+0
+0
+18
+17
+15
+
+[organizm 366]
+Trawa
+*
+1
+0
+0
+21
+10
+14
+
+[organizm 367]
+Trawa
+*
+1
+0
+0
+16
+6
+14
+
+[organizm 368]
+Trawa
+*
+1
+0
+0
+15
+11
+14
+
+[organizm 369]
+Trawa
+*
+1
+0
+0
+22
+14
+14
+
+[organizm 370]
+Trawa
+*
+1
+0
+0
+23
+18
+14
+
+[organizm 371]
+Trawa
+*
+1
+0
+0
+15
+2
+14
+
+[organizm 372]
+Trawa
+*
+1
+0
+0
+24
+16
+14
+
+[organizm 373]
+Trawa
+*
+1
+0
+0
+21
+14
+14
+
+[organizm 374]
+Trawa
+*
+1
+0
+0
+18
+15
+14
+
+[organizm 375]
+Trawa
+*
+1
+0
+0
+18
+14
+14
+
+[organizm 376]
+Trawa
+*
+1
+0
+0
+22
+15
+13
+
+[organizm 377]
+Trawa
+*
+1
+0
+0
+14
+1
+13
+
+[organizm 378]
+Trawa
+*
+1
+0
+0
+33
+15
+13
+
+[organizm 379]
+Trawa
+*
+1
+0
+0
+34
+16
+13
+
+[organizm 380]
+Trawa
+*
+1
+0
+0
+20
+15
+13
+
+[organizm 381]
+Trawa
+*
+1
+0
+0
+21
+15
+13
+
+[organizm 382]
+Trawa
+*
+1
+0
+0
+21
+11
+13
+
+[organizm 383]
+Trawa
+*
+1
+0
+0
+29
+8
+12
+
+[organizm 384]
+Trawa
+*
+1
+0
+0
+23
+16
+12
+
+[organizm 385]
+Trawa
+*
+1
+0
+0
+17
+12
+12
+
+[organizm 386]
+Trawa
+*
+1
+0
+0
+14
+10
+12
+
+[organizm 387]
+Trawa
+*
+1
+0
+0
+33
+16
+12
+
+[organizm 388]
+Trawa
+*
+1
+0
+0
+14
+5
+12
+
+[organizm 389]
+Trawa
+*
+1
+0
+0
+16
+12
+12
+
+[organizm 390]
+Trawa
+*
+1
+0
+0
+13
+11
+12
+
+[organizm 391]
+Trawa
+*
+1
+0
+0
+13
+8
+12
+
+[organizm 392]
+Trawa
+*
+1
+0
+0
+17
+16
+12
+
+[organizm 393]
+Trawa
+*
+1
+0
+0
+17
+14
+12
+
+[organizm 394]
+Trawa
+*
+1
+0
+0
+27
+16
+11
+
+[organizm 395]
+Trawa
+*
+1
+0
+0
+17
+13
+11
+
+[organizm 396]
+Trawa
+*
+1
+0
+0
+14
+3
+11
+
+[organizm 397]
+Trawa
+*
+1
+0
+0
+16
+17
+11
+
+[organizm 398]
+Trawa
+*
+1
+0
+0
+16
+15
+11
+
+[organizm 399]
+Trawa
+*
+1
+0
+0
+15
+13
+11
+
+[organizm 400]
+Trawa
+*
+1
+0
+0
+15
+8
+11
+
+[organizm 401]
+Trawa
+*
+1
+0
+0
+31
+15
+10
+
+[organizm 402]
+Trawa
+*
+1
+0
+0
+19
+11
+10
+
+[organizm 403]
+Trawa
+*
+1
+0
+0
+19
+18
+10
+
+[organizm 404]
+Trawa
+*
+1
+0
+0
+19
+17
+10
+
+[organizm 405]
+Trawa
+*
+1
+0
+0
+13
+7
+10
+
+[organizm 406]
+Trawa
+*
+1
+0
+0
+21
+16
+10
+
+[organizm 407]
+Trawa
+*
+1
+0
+0
+20
+10
+10
+
+[organizm 408]
+Trawa
+*
+1
+0
+0
+16
+14
+10
+
+[organizm 409]
+Trawa
+*
+1
+0
+0
+21
+9
+9
+
+[organizm 410]
+Trawa
+*
+1
+0
+0
+13
+3
+9
+
+[organizm 411]
+Trawa
+*
+1
+0
+0
+12
+7
+9
+
+[organizm 412]
+Trawa
+*
+1
+0
+0
+22
+18
+9
+
+[organizm 413]
+Trawa
+*
+1
+0
+0
+19
+16
+9
+
+[organizm 414]
+Trawa
+*
+1
+0
+0
+12
+1
+9
+
+[organizm 415]
+Trawa
+*
+1
+0
+0
+21
+17
+9
+
+[organizm 416]
+Trawa
+*
+1
+0
+0
+20
+16
+9
+
+[organizm 417]
+Trawa
+*
+1
+0
+0
+31
+14
+9
+
+[organizm 418]
+Trawa
+*
+1
+0
+0
+12
+8
+9
+
+[organizm 419]
+Trawa
+*
+1
+0
+0
+16
+13
+9
+
+[organizm 420]
+Trawa
+*
+1
+0
+0
+12
+6
+9
+
+[organizm 421]
+Trawa
+*
+1
+0
+0
+20
+18
+9
+
+[organizm 422]
+Trawa
+*
+1
+0
+0
+30
+14
+8
+
+[organizm 423]
+Trawa
+*
+1
+0
+0
+17
+15
+8
+
+[organizm 424]
+Trawa
+*
+1
+0
+0
+14
+12
+8
+
+[organizm 425]
+Trawa
+*
+1
+0
+0
+14
+4
+8
+
+[organizm 426]
+Trawa
+*
+1
+0
+0
+17
+17
+8
+
+[organizm 427]
+Trawa
+*
+1
+0
+0
+11
+9
+8
+
+[organizm 428]
+Trawa
+*
+1
+0
+0
+14
+9
+7
+
+[organizm 429]
+Trawa
+*
+1
+0
+0
+15
+12
+7
+
+[organizm 430]
+Trawa
+*
+1
+0
+0
+15
+15
+7
+
+[organizm 431]
+Trawa
+*
+1
+0
+0
+13
+2
+7
+
+[organizm 432]
+Trawa
+*
+1
+0
+0
+16
+16
+7
+
+[organizm 433]
+Trawa
+*
+1
+0
+0
+32
+15
+7
+
+[organizm 434]
+Trawa
+*
+1
+0
+0
+20
+17
+7
+
+[organizm 435]
+Trawa
+*
+1
+0
+0
+15
+16
+7
+
+[organizm 436]
+Trawa
+*
+1
+0
+0
+28
+15
+6
+
+[organizm 437]
+Trawa
+*
+1
+0
+0
+13
+18
+6
+
+[organizm 438]
+Trawa
+*
+1
+0
+0
+21
+18
+6
+
+[organizm 439]
+Trawa
+*
+1
+0
+0
+11
+7
+6
+
+[organizm 440]
+Trawa
+*
+1
+0
+0
+12
+9
+6
+
+[organizm 441]
+Trawa
+*
+1
+0
+0
+12
+5
+6
+
+[organizm 442]
+Trawa
+*
+1
+0
+0
+10
+9
+6
+
+[organizm 443]
+Trawa
+*
+1
+0
+0
+14
+17
+6
+
+[organizm 444]
+Trawa
+*
+1
+0
+0
+29
+10
+5
+
+[organizm 445]
+Trawa
+*
+1
+0
+0
+13
+4
+5
+
+[organizm 446]
+Trawa
+*
+1
+0
+0
+26
+17
+5
+
+[organizm 447]
+Trawa
+*
+1
+0
+0
+14
+8
+5
+
+[organizm 448]
+Trawa
+*
+1
+0
+0
+11
+6
+5
+
+[organizm 449]
+Trawa
+*
+1
+0
+0
+15
+7
+5
+
+[organizm 450]
+Trawa
+*
+1
+0
+0
+13
+10
+5
+
+[organizm 451]
+Trawa
+*
+1
+0
+0
+14
+15
+5
+
+[organizm 452]
+Trawa
+*
+1
+0
+0
+14
+18
+5
+
+[organizm 453]
+Trawa
+*
+1
+0
+0
+11
+8
+5
+
+[organizm 454]
+Trawa
+*
+1
+0
+0
+13
+5
+5
+
+[organizm 455]
+Trawa
+*
+1
+0
+0
+14
+16
+5
+
+[organizm 456]
+Trawa
+*
+1
+0
+0
+23
+9
+4
+
+[organizm 457]
+Trawa
+*
+1
+0
+0
+22
+10
+4
+
+[organizm 458]
+Trawa
+*
+1
+0
+0
+30
+9
+4
+
+[organizm 459]
+Trawa
+*
+1
+0
+0
+14
+7
+4
+
+[organizm 460]
+Trawa
+*
+1
+0
+0
+13
+9
+4
+
+[organizm 461]
+Trawa
+*
+1
+0
+0
+18
+18
+4
+
+[organizm 462]
+Trawa
+*
+1
+0
+0
+15
+14
+4
+
+[organizm 463]
+Trawa
+*
+1
+0
+0
+13
+17
+4
+
+[organizm 464]
+Trawa
+*
+1
+0
+0
+17
+18
+4
+
+[organizm 465]
+Trawa
+*
+1
+0
+0
+13
+16
+4
+
+[organizm 466]
+Trawa
+*
+1
+0
+0
+14
+14
+3
+
+[organizm 467]
+Trawa
+*
+1
+0
+0
+10
+7
+3
+
+[organizm 468]
+Trawa
+*
+1
+0
+0
+13
+6
+3
+
+[organizm 469]
+Trawa
+*
+1
+0
+0
+22
+9
+3
+
+[organizm 470]
+Trawa
+*
+1
+0
+0
+12
+11
+3
+
+[organizm 471]
+Trawa
+*
+1
+0
+0
+15
+18
+3
+
+[organizm 472]
+Trawa
+*
+1
+0
+0
+10
+10
+3
+
+[organizm 473]
+Trawa
+*
+1
+0
+0
+14
+13
+3
+
+[organizm 474]
+Trawa
+*
+1
+0
+0
+23
+10
+2
+
+[organizm 475]
+Trawa
+*
+1
+0
+0
+13
+12
+2
+
+[organizm 476]
+Trawa
+*
+1
+0
+0
+12
+4
+2
+
+[organizm 477]
+Trawa
+*
+1
+0
+0
+14
+6
+2
+
+[organizm 478]
+Trawa
+*
+1
+0
+0
+29
+15
+2
+
+[organizm 479]
+Trawa
+*
+1
+0
+0
+30
+16
+2
+
+[organizm 480]
+Trawa
+*
+1
+0
+0
+11
+1
+2
+
+[organizm 481]
+Trawa
+*
+1
+0
+0
+16
+18
+2
+
+[organizm 482]
+Trawa
+*
+1
+0
+0
+12
+18
+2
+
+[organizm 483]
+Trawa
+*
+1
+0
+0
+11
+17
+2
+
+[organizm 484]
+Trawa
+*
+1
+0
+0
+11
+10
+2
+
+[organizm 485]
+Trawa
+*
+1
+0
+0
+9
+10
+2
+
+[organizm 486]
+Trawa
+*
+1
+0
+0
+24
+15
+2
+
+[organizm 487]
+Trawa
+*
+1
+0
+0
+15
+17
+2
+
+[organizm 488]
+Trawa
+*
+1
+0
+0
+10
+1
+1
+
+[organizm 489]
+Trawa
+*
+1
+0
+0
+11
+18
+1
+
+[organizm 490]
+Trawa
+*
+1
+0
+0
+10
+17
+1
+
+[organizm 491]
+Trawa
+*
+1
+0
+0
+8
+9
+1
+
