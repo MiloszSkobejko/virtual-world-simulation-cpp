@@ -43,7 +43,7 @@ Upon launching the program, the board displays several animals and plants assign
 The program window containa a field where information about the results of battles, plant consumption, and other events 
 occurring in the world are displayed.
 
-#### Table1:
+#### Table1: ==Animals==
 | Id | Animal   | Strength | Initiative | Action Method Specifics                                                                      | Collision Method Specifics                                                                                          |
 |----|----------|----------|------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | 1  | Wolf     | 9        | 5          | None                                                                                        | None                                                                                                                |
@@ -58,6 +58,16 @@ occurring in the world are displayed.
 | 10 | Mouse    | 1        | 6          | None                                                                                        | Can escape to an adjacent unoccupied cell if available. Doesn't work if the enemy is a snake.                       |
 | 11 | Mosquito | 1        | 1          | +1 to initiative and +1 to strength for each adjacent mosquito                              | If defeated, has a 50% chance of survival (returns to the previous cell).                                           |
 | 12 | Sloth    | 2        | 1          | Never moves twice in a row in consecutive turns                                             | None                                                                                                                |
+#### Table2:  ==Plants==
+| Plant       | Strength | Action Method Specifics                                                                      | Collision Method Specifics                                                                                          |
+|-------------|----------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Grass       | 0        | None                                                                                        | None                                                                                                                |
+| Dandelion   | 0        | Attempts to spread three times in one turn                                                   | None                                                                                                                |
+| Nettle      | 0        | None                                                                                        | The animal that eats this plant gets an extra move in the next turn.                                               |
+| Guaraná     | 0        | None                                                                                        | Increases the strength of the animal that eats it by 3.                                                             |
+| Deadly Nightshade | 0  | None                                                                                        | The animal that eats this plant dies.                                                                               |
+| Thistle     | 2        | Attempts to spread always succeed                                                            | None                                                                                                                |
+
 
 ## How it's builded
 
