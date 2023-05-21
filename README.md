@@ -9,8 +9,8 @@ They can eat, fight, die and reproduce. Simulation is tour-based with console ou
  * [Compiler Information](#Compiler-Information)
  * [Simulation Rules](#Simulation-Rules)
  * [How it's buided](#How-it's-buided)
- * [Controls](#File-Information)
- * [File Information](#Author)
+ * [Controls](#Controls)
+ * [File Information](#File-Information)
  * [Author](#Author)
  
 ## General Information
@@ -84,7 +84,7 @@ main.cpp contains main function, canva files contains way of displaying 2d board
 
 ## Author
 > + _Created by Miłosz Skobejko_
-> + _Published on github 9.03.2023_
+> + _Published on github 21.05.2023_
 > + _currect version: v0.0_
 
-> Created in Atom text editor, later on moved to Xcode editor
+> Created in Atom text editor.
