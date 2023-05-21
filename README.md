@@ -77,7 +77,7 @@ Organisms have the ability to affect the state of the world. I've ensured that t
 members that are necessary for other application objects to function. Encapsulated the remaining functionality of the world within private members.
 
 ## Controls
-Press `enter` in order to simulate a turn. Simulation starts with organism initialized manually in worl class metho. Fell free to change them.
+Press `enter` in order to simulate a turn. Simulation starts with organism initialized manually in world class method. Fell free to change them.
 
 ## File Information
 main.cpp contains main function, canva files contains way of displaying 2d board to the screen. 
